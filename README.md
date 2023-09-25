@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @ilikecereal1
-- I like cereal.
-- Scratch: scratch.mit.edu/users/ilikecereal1
+# About me
+Hey there, I'm a developer who likes to waste time and also uses an iPad to code. I also like cereal
 
-<!---
-RandomPerson123978/RandomPerson123978 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Stats
+[![ilikecereal1's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilikecereal1)](https://github.com/anuraghazra/github-readme-stats)
